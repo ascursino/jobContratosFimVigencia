@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="56e9974f-9f62-452e-b3ec-5df43547b5a6" solutionId="56e9974f-9f62-452e-b3ec-5df43547b5a6" resetWebServer="false" name="jobContratosFimVigencia" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="91a53d49-b8fd-4497-835a-fb5e4cc3ae77" />
+  </features>
+</package>
